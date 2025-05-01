@@ -98,7 +98,7 @@ cv_acc_resample <- rf_default_cv_results %>%
 
 
 
-
+# Try different models to see if the model performance can be improved
 
 # 2. XGBoot model
 # --- Define the Recipe for the XGBoost Model with Regularization ---
